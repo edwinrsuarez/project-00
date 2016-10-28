@@ -1,0 +1,15 @@
+
+Awesome Public Datasets
+https://github.com/caesar0301/awesome-public-datasets
+
+Data Packaged Core Datasets
+https://github.com/datasets
+
+Kaggle Datasets
+https://www.kaggle.com/datasets
+
+Awesome json Datasets
+https://github.com/jdorfman/awesome-json-datasets
+
+Yelp Datasets
+https://github.com/1125f16/al-yelp
